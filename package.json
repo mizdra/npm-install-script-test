@@ -2,7 +2,8 @@
   "name": "@mizdra/install-script-test",
   "version": "0.0.2",
   "publishConfig": {
-    "access": "public"
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
   },
   "description": "A package for testing the behavior of `install` script",
   "scripts": {
