@@ -1,6 +1,6 @@
 {
   "name": "@mizdra/install-script-test",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A package for testing the behavior of `install` script",
   "scripts": {
     "install": "echo 'Install script executed'"
