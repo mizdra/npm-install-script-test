@@ -13,6 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/mizdra/npm-install-script-test.git"
   },
+  "bin": "./hello.js",
   "keywords": [],
   "author": "mizdra <pp.mizdra@gmail.com>",
   "license": "MIT",
